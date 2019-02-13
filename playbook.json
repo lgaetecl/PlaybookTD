@@ -128,7 +128,7 @@
                     "seniales": [
                         {
                             "id": 8,
-                            "descripcion": "\tTratamos de entender todos los caminos del usuario incluyendo aquellos no digitales, así como otros canales, durante nuestra fase de discovery",
+                            "descripcion": "Tratamos de entender todos los caminos del usuario incluyendo aquellos no digitales, así como otros canales, durante nuestra fase de discovery",
                             "tipo": "buena",
                             "parent": {
                                 "id": 3,
@@ -142,7 +142,7 @@
                         },
                         {
                             "id": 9,
-                            "descripcion": "\tLos usuarios están satisfechos con su experiencia a través de múltiples canales, incluyendo aquellos no digitales",
+                            "descripcion": "Los usuarios están satisfechos con su experiencia a través de múltiples canales, incluyendo aquellos no digitales",
                             "tipo": "buena",
                             "parent": {
                                 "id": 3,
@@ -156,7 +156,7 @@
                         },
                         {
                             "id": 10,
-                            "descripcion": "\tHablamos con otros equipos de manera de también entender la experiencia del usuario en aquellos canales",
+                            "descripcion": "Hablamos con otros equipos de manera de también entender la experiencia del usuario en aquellos canales",
                             "tipo": "buena",
                             "parent": {
                                 "id": 3,
@@ -170,7 +170,7 @@
                         },
                         {
                             "id": 11,
-                            "descripcion": "\tSe hizo el ejercicio de validar con qué canales podemos satisfacer las necesidades del usuario",
+                            "descripcion": "Se hizo el ejercicio de validar con qué canales podemos satisfacer las necesidades del usuario",
                             "tipo": "buena",
                             "parent": {
                                 "id": 3,
@@ -184,7 +184,7 @@
                         },
                         {
                             "id": 12,
-                            "descripcion": "\tSólo miramos nuestro canal, los demás no son nuestro problema.",
+                            "descripcion": "Sólo miramos nuestro canal, los demás no son nuestro problema.",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 3,
@@ -198,7 +198,7 @@
                         },
                         {
                             "id": 13,
-                            "descripcion": "\tSomos un equipo dedesarrollo, por lo que la experiencia no digital es preocupación de otros",
+                            "descripcion": "Somos un equipo dedesarrollo, por lo que la experiencia no digital es preocupación de otros",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 3,
@@ -212,7 +212,7 @@
                         },
                         {
                             "id": 14,
-                            "descripcion": "\tLos usuarios están confundidos con experiencias inconsistentes a lo largo de los múltiples canales.",
+                            "descripcion": "Los usuarios están confundidos con experiencias inconsistentes a lo largo de los múltiples canales.",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 3,
@@ -246,7 +246,7 @@
                     "seniales": [
                         {
                             "id": 15,
-                            "descripcion": "\tRecientemente, durante nuestras retrospectivas, hemos identificado desperdicio y lo hemos trabajado y mejorado.",
+                            "descripcion": "Recientemente, durante nuestras retrospectivas, hemos identificado desperdicio y lo hemos trabajado y mejorado.",
                             "tipo": "buena",
                             "parent": {
                                 "id": 4,
@@ -260,7 +260,7 @@
                         },
                         {
                             "id": 16,
-                            "descripcion": "\tConstantemente estamos atentos a los 7 tipos de desperdicio para así eliminarlos.",
+                            "descripcion": "Constantemente estamos atentos a los 7 tipos de desperdicio para así eliminarlos.",
                             "tipo": "buena",
                             "parent": {
                                 "id": 4,
@@ -274,7 +274,7 @@
                         },
                         {
                             "id": 17,
-                            "descripcion": "\t¿Desperdicios? ¿Qué son los desperdicios?",
+                            "descripcion": "¿Desperdicios? ¿Qué son los desperdicios?",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 4,
@@ -288,7 +288,7 @@
                         },
                         {
                             "id": 18,
-                            "descripcion": "\t¿Lean Software? Pensábamos que Lean era un término de manufactura",
+                            "descripcion": "¿Lean Software? Pensábamos que Lean era un término de manufactura",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 4,
@@ -302,7 +302,7 @@
                         },
                         {
                             "id": 19,
-                            "descripcion": "\t¿7 Desperdicios? Nunca los habíamos escuchado",
+                            "descripcion": "¿7 Desperdicios? Nunca los habíamos escuchado",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 4,
@@ -420,7 +420,7 @@
                     "seniales": [
                         {
                             "id": 26,
-                            "descripcion": "\tEl equipo y el PO tienen claridad de qué MVPs han sido planificados y qué características componen a cada uno de ellos",
+                            "descripcion": "El equipo y el PO tienen claridad de qué MVPs han sido planificados y qué características componen a cada uno de ellos",
                             "tipo": "buena",
                             "parent": {
                                 "id": 6,
@@ -434,7 +434,7 @@
                         },
                         {
                             "id": 27,
-                            "descripcion": "\tLos entregables se han quebrado en múltiples MVPs que se implementan de forma iterativa en producción.",
+                            "descripcion": "Los entregables se han quebrado en múltiples MVPs que se implementan de forma iterativa en producción.",
                             "tipo": "buena",
                             "parent": {
                                 "id": 6,
@@ -448,7 +448,7 @@
                         },
                         {
                             "id": 28,
-                            "descripcion": "\tEl squad entrega el mínimo requerido para recopilar feedback en producción del usuario",
+                            "descripcion": "El squad entrega el mínimo requerido para recopilar feedback en producción del usuario",
                             "tipo": "buena",
                             "parent": {
                                 "id": 6,
@@ -462,7 +462,7 @@
                         },
                         {
                             "id": 29,
-                            "descripcion": "\tSólo existe un gran release al final.",
+                            "descripcion": "Sólo existe un gran release al final.",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 6,
@@ -476,7 +476,7 @@
                         },
                         {
                             "id": 30,
-                            "descripcion": "\tLos usuarios esperan por meses hasta ver algo nuevo en producción.",
+                            "descripcion": "Los usuarios esperan por meses hasta ver algo nuevo en producción.",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 6,
@@ -490,7 +490,7 @@
                         },
                         {
                             "id": 31,
-                            "descripcion": "\tNo sabemos cómo quebrar el release en MVPs",
+                            "descripcion": "No sabemos cómo quebrar el release en MVPs",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 6,
@@ -504,7 +504,7 @@
                         },
                         {
                             "id": 32,
-                            "descripcion": "\tExisten fechas inamovibles de entrega",
+                            "descripcion": "Existen fechas inamovibles de entrega",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 6,
@@ -528,7 +528,7 @@
                     "seniales": [
                         {
                             "id": 184,
-                            "descripcion": "Tenemos al menos una\tmétrica de output  ¿Cuál? Porfavor explique.",
+                            "descripcion": "Tenemos al menos unamétrica de output  ¿Cuál? Porfavor explique.",
                             "tipo": "buena",
                             "parent": {
                                 "id": 37,
@@ -542,7 +542,7 @@
                         },
                         {
                             "id": 185,
-                            "descripcion": "\tLa métrica de output no es la medida más importante de éxito.",
+                            "descripcion": "La métrica de output no es la medida más importante de éxito.",
                             "tipo": "buena",
                             "parent": {
                                 "id": 37,
@@ -570,7 +570,7 @@
                         },
                         {
                             "id": 187,
-                            "descripcion": "\tLa métrica de output es la medida más importante de éxito.",
+                            "descripcion": "La métrica de output es la medida más importante de éxito.",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 37,
@@ -722,7 +722,7 @@
                     "seniales": [
                         {
                             "id": 40,
-                            "descripcion": "\tLos miembros del equipo/squad están comprometidos y ocupados, pero no muy cansados.",
+                            "descripcion": "Los miembros del equipo/squad están comprometidos y ocupados, pero no muy cansados.",
                             "tipo": "buena",
                             "parent": {
                                 "id": 9,
@@ -736,7 +736,7 @@
                         },
                         {
                             "id": 41,
-                            "descripcion": "\tExiste un sentido de urgencia, pero no tanta presión como para derribar al equipo/squad..",
+                            "descripcion": "Existe un sentido de urgencia, pero no tanta presión como para derribar al equipo/squad..",
                             "tipo": "buena",
                             "parent": {
                                 "id": 9,
@@ -750,7 +750,7 @@
                         },
                         {
                             "id": 42,
-                            "descripcion": "\tLos miembros del equipo sienten que existe demasiada presión.",
+                            "descripcion": "Los miembros del equipo sienten que existe demasiada presión.",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 9,
@@ -764,7 +764,7 @@
                         },
                         {
                             "id": 43,
-                            "descripcion": "\tLos miembros del equipo trabajan muchas horas, fines de semana y feriados.",
+                            "descripcion": "Los miembros del equipo trabajan muchas horas, fines de semana y feriados.",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 9,
@@ -788,7 +788,7 @@
                     "seniales": [
                         {
                             "id": 44,
-                            "descripcion": "Los miembros del squad se\tdan feedback de manera\tse comportan como jefes, mutua, independiente de su rol.",
+                            "descripcion": "Los miembros del squad sedan feedback de manerase comportan como jefes, mutua, independiente de su rol.",
                             "tipo": "buena",
                             "parent": {
                                 "id": 10,
@@ -840,7 +840,7 @@
                     "seniales": [
                         {
                             "id": 47,
-                            "descripcion": "\tEl mismo squad existe por un largo periodo, algunos miembros se han ido y otros se han unido, pero el squad base se ha mantenido.",
+                            "descripcion": "El mismo squad existe por un largo periodo, algunos miembros se han ido y otros se han unido, pero el squad base se ha mantenido.",
                             "tipo": "buena",
                             "parent": {
                                 "id": 11,
@@ -854,7 +854,7 @@
                         },
                         {
                             "id": 48,
-                            "descripcion": "\tLos miembros del equipo van y vienen frecuentemente.",
+                            "descripcion": "Los miembros del equipo van y vienen frecuentemente.",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 11,
@@ -868,7 +868,7 @@
                         },
                         {
                             "id": 49,
-                            "descripcion": "\tEl equipo entero se crea y se destruye por cada iniciativa.",
+                            "descripcion": "El equipo entero se crea y se destruye por cada iniciativa.",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 11,
@@ -892,7 +892,7 @@
                     "seniales": [
                         {
                             "id": 50,
-                            "descripcion": "\tDev Team están dedicados 100% a un squad.",
+                            "descripcion": "Dev Team están dedicados 100% a un squad.",
                             "tipo": "buena",
                             "parent": {
                                 "id": 12,
@@ -906,7 +906,7 @@
                         },
                         {
                             "id": 51,
-                            "descripcion": "\tOtras capacidades son solicitadas a medida que son necesarias.",
+                            "descripcion": "Otras capacidades son solicitadas a medida que son necesarias.",
                             "tipo": "buena",
                             "parent": {
                                 "id": 12,
@@ -920,7 +920,7 @@
                         },
                         {
                             "id": 52,
-                            "descripcion": "\tEl Scrum Master es parte de muchos equipos.",
+                            "descripcion": "El Scrum Master es parte de muchos equipos.",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 12,
@@ -934,7 +934,7 @@
                         },
                         {
                             "id": 53,
-                            "descripcion": "\tVarios de los miembros del equipo son parte de más de un equipo.",
+                            "descripcion": "Varios de los miembros del equipo son parte de más de un equipo.",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 12,
@@ -958,7 +958,7 @@
                     "seniales": [
                         {
                             "id": 54,
-                            "descripcion": "\tLos miembros del equipo/squad están comprometidos y ocupados, pero no muy cansados.",
+                            "descripcion": "Los miembros del equipo/squad están comprometidos y ocupados, pero no muy cansados.",
                             "tipo": "buena",
                             "parent": {
                                 "id": 13,
@@ -972,7 +972,7 @@
                         },
                         {
                             "id": 55,
-                            "descripcion": "\tExiste un sentido de urgencia, pero no tanta presión como para derribar al equipo/squad..",
+                            "descripcion": "Existe un sentido de urgencia, pero no tanta presión como para derribar al equipo/squad..",
                             "tipo": "buena",
                             "parent": {
                                 "id": 13,
@@ -986,7 +986,7 @@
                         },
                         {
                             "id": 56,
-                            "descripcion": "\tLos miembros del equipo sienten que existe demasiada presión.",
+                            "descripcion": "Los miembros del equipo sienten que existe demasiada presión.",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 13,
@@ -1000,7 +1000,7 @@
                         },
                         {
                             "id": 57,
-                            "descripcion": "\tLos miembros del equipo trabajan muchas horas, fines de semana y feriados.",
+                            "descripcion": "Los miembros del equipo trabajan muchas horas, fines de semana y feriados.",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 13,
@@ -1084,19 +1084,19 @@
                     "id": 15,
                     "nro": "3.9",
                     "titulo": "Personas con forma de T (T-shaped)",
-                    "descripcion": "Aplicamos el modelo 70-20-10 para roles. Cada miembro del squad juega diferentes roles en diferentes momentos, idealmente distribuyendo su tiempo de esta forma:-\t70%: El rol que alguien toma la mayoría del tiempo, es aquel rol para el que es mejor.-\t20%: El rol que el miembro del equipo puede tomar, está aprendiendo y quiere desarrollar.-\t10%: El rol que quiere desarrollar, quiere intentar, y que nunca ha intentado antes.Por ejemplo, alguien podría ser: 70% Dev + 20% TL + 10% IM",
+                    "descripcion": "Aplicamos el modelo 70-20-10 para roles. Cada miembro del squad juega diferentes roles en diferentes momentos, idealmente distribuyendo su tiempo de esta forma:-70%: El rol que alguien toma la mayoría del tiempo, es aquel rol para el que es mejor.-20%: El rol que el miembro del equipo puede tomar, está aprendiendo y quiere desarrollar.-10%: El rol que quiere desarrollar, quiere intentar, y que nunca ha intentado antes.Por ejemplo, alguien podría ser: 70% Dev + 20% TL + 10% IM",
                     "parent": null,
                     "materiales": [],
                     "seniales": [
                         {
                             "id": 62,
-                            "descripcion": "\tEl TL es también backup del IM",
+                            "descripcion": "El TL es también backup del IM",
                             "tipo": "buena",
                             "parent": {
                                 "id": 15,
                                 "nro": "3.9",
                                 "titulo": "Personas con forma de T (T-shaped)",
-                                "descripcion": "Aplicamos el modelo 70-20-10 para roles. Cada miembro del squad juega diferentes roles en diferentes momentos, idealmente distribuyendo su tiempo de esta forma:-\t70%: El rol que alguien toma la mayoría del tiempo, es aquel rol para el que es mejor.-\t20%: El rol que el miembro del equipo puede tomar, está aprendiendo y quiere desarrollar.-\t10%: El rol que quiere desarrollar, quiere intentar, y que nunca ha intentado antes.Por ejemplo, alguien podría ser: 70% Dev + 20% TL + 10% IM",
+                                "descripcion": "Aplicamos el modelo 70-20-10 para roles. Cada miembro del squad juega diferentes roles en diferentes momentos, idealmente distribuyendo su tiempo de esta forma:-70%: El rol que alguien toma la mayoría del tiempo, es aquel rol para el que es mejor.-20%: El rol que el miembro del equipo puede tomar, está aprendiendo y quiere desarrollar.-10%: El rol que quiere desarrollar, quiere intentar, y que nunca ha intentado antes.Por ejemplo, alguien podría ser: 70% Dev + 20% TL + 10% IM",
                                 "parent": null,
                                 "materiales": [],
                                 "seniales": []
@@ -1104,13 +1104,13 @@
                         },
                         {
                             "id": 63,
-                            "descripcion": "\tEl PO también es backup del UX y del BA cuando es necesario",
+                            "descripcion": "El PO también es backup del UX y del BA cuando es necesario",
                             "tipo": "buena",
                             "parent": {
                                 "id": 15,
                                 "nro": "3.9",
                                 "titulo": "Personas con forma de T (T-shaped)",
-                                "descripcion": "Aplicamos el modelo 70-20-10 para roles. Cada miembro del squad juega diferentes roles en diferentes momentos, idealmente distribuyendo su tiempo de esta forma:-\t70%: El rol que alguien toma la mayoría del tiempo, es aquel rol para el que es mejor.-\t20%: El rol que el miembro del equipo puede tomar, está aprendiendo y quiere desarrollar.-\t10%: El rol que quiere desarrollar, quiere intentar, y que nunca ha intentado antes.Por ejemplo, alguien podría ser: 70% Dev + 20% TL + 10% IM",
+                                "descripcion": "Aplicamos el modelo 70-20-10 para roles. Cada miembro del squad juega diferentes roles en diferentes momentos, idealmente distribuyendo su tiempo de esta forma:-70%: El rol que alguien toma la mayoría del tiempo, es aquel rol para el que es mejor.-20%: El rol que el miembro del equipo puede tomar, está aprendiendo y quiere desarrollar.-10%: El rol que quiere desarrollar, quiere intentar, y que nunca ha intentado antes.Por ejemplo, alguien podría ser: 70% Dev + 20% TL + 10% IM",
                                 "parent": null,
                                 "materiales": [],
                                 "seniales": []
@@ -1118,13 +1118,13 @@
                         },
                         {
                             "id": 64,
-                            "descripcion": "\tEl Dev también es QA.",
+                            "descripcion": "El Dev también es QA.",
                             "tipo": "buena",
                             "parent": {
                                 "id": 15,
                                 "nro": "3.9",
                                 "titulo": "Personas con forma de T (T-shaped)",
-                                "descripcion": "Aplicamos el modelo 70-20-10 para roles. Cada miembro del squad juega diferentes roles en diferentes momentos, idealmente distribuyendo su tiempo de esta forma:-\t70%: El rol que alguien toma la mayoría del tiempo, es aquel rol para el que es mejor.-\t20%: El rol que el miembro del equipo puede tomar, está aprendiendo y quiere desarrollar.-\t10%: El rol que quiere desarrollar, quiere intentar, y que nunca ha intentado antes.Por ejemplo, alguien podría ser: 70% Dev + 20% TL + 10% IM",
+                                "descripcion": "Aplicamos el modelo 70-20-10 para roles. Cada miembro del squad juega diferentes roles en diferentes momentos, idealmente distribuyendo su tiempo de esta forma:-70%: El rol que alguien toma la mayoría del tiempo, es aquel rol para el que es mejor.-20%: El rol que el miembro del equipo puede tomar, está aprendiendo y quiere desarrollar.-10%: El rol que quiere desarrollar, quiere intentar, y que nunca ha intentado antes.Por ejemplo, alguien podría ser: 70% Dev + 20% TL + 10% IM",
                                 "parent": null,
                                 "materiales": [],
                                 "seniales": []
@@ -1132,13 +1132,13 @@
                         },
                         {
                             "id": 65,
-                            "descripcion": "\tCuando un miembro del squad no está, el squad siempre tiene otros miembros que pueden suplir ese rol.",
+                            "descripcion": "Cuando un miembro del squad no está, el squad siempre tiene otros miembros que pueden suplir ese rol.",
                             "tipo": "buena",
                             "parent": {
                                 "id": 15,
                                 "nro": "3.9",
                                 "titulo": "Personas con forma de T (T-shaped)",
-                                "descripcion": "Aplicamos el modelo 70-20-10 para roles. Cada miembro del squad juega diferentes roles en diferentes momentos, idealmente distribuyendo su tiempo de esta forma:-\t70%: El rol que alguien toma la mayoría del tiempo, es aquel rol para el que es mejor.-\t20%: El rol que el miembro del equipo puede tomar, está aprendiendo y quiere desarrollar.-\t10%: El rol que quiere desarrollar, quiere intentar, y que nunca ha intentado antes.Por ejemplo, alguien podría ser: 70% Dev + 20% TL + 10% IM",
+                                "descripcion": "Aplicamos el modelo 70-20-10 para roles. Cada miembro del squad juega diferentes roles en diferentes momentos, idealmente distribuyendo su tiempo de esta forma:-70%: El rol que alguien toma la mayoría del tiempo, es aquel rol para el que es mejor.-20%: El rol que el miembro del equipo puede tomar, está aprendiendo y quiere desarrollar.-10%: El rol que quiere desarrollar, quiere intentar, y que nunca ha intentado antes.Por ejemplo, alguien podría ser: 70% Dev + 20% TL + 10% IM",
                                 "parent": null,
                                 "materiales": [],
                                 "seniales": []
@@ -1146,13 +1146,13 @@
                         },
                         {
                             "id": 66,
-                            "descripcion": "\tCuando un miembro del equipo está ausente, el equipo se descompone por la falta de ese rol.",
+                            "descripcion": "Cuando un miembro del equipo está ausente, el equipo se descompone por la falta de ese rol.",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 15,
                                 "nro": "3.9",
                                 "titulo": "Personas con forma de T (T-shaped)",
-                                "descripcion": "Aplicamos el modelo 70-20-10 para roles. Cada miembro del squad juega diferentes roles en diferentes momentos, idealmente distribuyendo su tiempo de esta forma:-\t70%: El rol que alguien toma la mayoría del tiempo, es aquel rol para el que es mejor.-\t20%: El rol que el miembro del equipo puede tomar, está aprendiendo y quiere desarrollar.-\t10%: El rol que quiere desarrollar, quiere intentar, y que nunca ha intentado antes.Por ejemplo, alguien podría ser: 70% Dev + 20% TL + 10% IM",
+                                "descripcion": "Aplicamos el modelo 70-20-10 para roles. Cada miembro del squad juega diferentes roles en diferentes momentos, idealmente distribuyendo su tiempo de esta forma:-70%: El rol que alguien toma la mayoría del tiempo, es aquel rol para el que es mejor.-20%: El rol que el miembro del equipo puede tomar, está aprendiendo y quiere desarrollar.-10%: El rol que quiere desarrollar, quiere intentar, y que nunca ha intentado antes.Por ejemplo, alguien podría ser: 70% Dev + 20% TL + 10% IM",
                                 "parent": null,
                                 "materiales": [],
                                 "seniales": []
@@ -1160,13 +1160,13 @@
                         },
                         {
                             "id": 67,
-                            "descripcion": "\tCada miembro del equipo tiene un rol y nunca experimenta algo diferente.",
+                            "descripcion": "Cada miembro del equipo tiene un rol y nunca experimenta algo diferente.",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 15,
                                 "nro": "3.9",
                                 "titulo": "Personas con forma de T (T-shaped)",
-                                "descripcion": "Aplicamos el modelo 70-20-10 para roles. Cada miembro del squad juega diferentes roles en diferentes momentos, idealmente distribuyendo su tiempo de esta forma:-\t70%: El rol que alguien toma la mayoría del tiempo, es aquel rol para el que es mejor.-\t20%: El rol que el miembro del equipo puede tomar, está aprendiendo y quiere desarrollar.-\t10%: El rol que quiere desarrollar, quiere intentar, y que nunca ha intentado antes.Por ejemplo, alguien podría ser: 70% Dev + 20% TL + 10% IM",
+                                "descripcion": "Aplicamos el modelo 70-20-10 para roles. Cada miembro del squad juega diferentes roles en diferentes momentos, idealmente distribuyendo su tiempo de esta forma:-70%: El rol que alguien toma la mayoría del tiempo, es aquel rol para el que es mejor.-20%: El rol que el miembro del equipo puede tomar, está aprendiendo y quiere desarrollar.-10%: El rol que quiere desarrollar, quiere intentar, y que nunca ha intentado antes.Por ejemplo, alguien podría ser: 70% Dev + 20% TL + 10% IM",
                                 "parent": null,
                                 "materiales": [],
                                 "seniales": []
@@ -1184,7 +1184,7 @@
                     "seniales": [
                         {
                             "id": 68,
-                            "descripcion": "\tLos problemas en producción son resueltos por el mismo equipo/squad que los desarrolló.",
+                            "descripcion": "Los problemas en producción son resueltos por el mismo equipo/squad que los desarrolló.",
                             "tipo": "buena",
                             "parent": {
                                 "id": 16,
@@ -1198,7 +1198,7 @@
                         },
                         {
                             "id": 69,
-                            "descripcion": "\tEl mismo squad posee el ciclo de vida completo de una característica  desde la idea hasta producción y despues de producción también.",
+                            "descripcion": "El mismo squad posee el ciclo de vida completo de una característica  desde la idea hasta producción y despues de producción también.",
                             "tipo": "buena",
                             "parent": {
                                 "id": 16,
@@ -1212,7 +1212,7 @@
                         },
                         {
                             "id": 70,
-                            "descripcion": "\tPara cada producto, el equipo que lo construyò sigue existiendo.",
+                            "descripcion": "Para cada producto, el equipo que lo construyò sigue existiendo.",
                             "tipo": "buena",
                             "parent": {
                                 "id": 16,
@@ -1226,7 +1226,7 @@
                         },
                         {
                             "id": 71,
-                            "descripcion": "\tUn equipo desarrolla, otro implementa, otro mantiene en producción.",
+                            "descripcion": "Un equipo desarrolla, otro implementa, otro mantiene en producción.",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 16,
@@ -1240,7 +1240,7 @@
                         },
                         {
                             "id": 72,
-                            "descripcion": "\tUn equipo arregla los errores creados por otro equipo.",
+                            "descripcion": "Un equipo arregla los errores creados por otro equipo.",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 16,
@@ -1254,7 +1254,7 @@
                         },
                         {
                             "id": 73,
-                            "descripcion": "\tUn equipo mantiene lo que otro equipo desarrolló.",
+                            "descripcion": "Un equipo mantiene lo que otro equipo desarrolló.",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 16,
@@ -1288,7 +1288,7 @@
                     "seniales": [
                         {
                             "id": 74,
-                            "descripcion": "\tHay un PO dedicado al equipo/squad y es del negocio. ",
+                            "descripcion": "Hay un PO dedicado al equipo/squad y es del negocio. ",
                             "tipo": "buena",
                             "parent": {
                                 "id": 17,
@@ -1302,7 +1302,7 @@
                         },
                         {
                             "id": 75,
-                            "descripcion": "\tEl PO está empoderado para tomar decisiones.",
+                            "descripcion": "El PO está empoderado para tomar decisiones.",
                             "tipo": "buena",
                             "parent": {
                                 "id": 17,
@@ -1316,7 +1316,7 @@
                         },
                         {
                             "id": 76,
-                            "descripcion": "\tEl PO no participa de nuestras reuniones diarias ni de nuestras retros.",
+                            "descripcion": "El PO no participa de nuestras reuniones diarias ni de nuestras retros.",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 17,
@@ -1368,7 +1368,7 @@
                     "seniales": [
                         {
                             "id": 79,
-                            "descripcion": "\tBusiness Owner participa activamente con el equipo/squad y asiste a ceremonias.",
+                            "descripcion": "Business Owner participa activamente con el equipo/squad y asiste a ceremonias.",
                             "tipo": "buena",
                             "parent": {
                                 "id": 18,
@@ -1382,7 +1382,7 @@
                         },
                         {
                             "id": 80,
-                            "descripcion": "\tBusiness Sponsor acude a reuniones mensuales a las cuales ha sido invitado y ayuda a evangelizar y promover trabajo realizado.",
+                            "descripcion": "Business Sponsor acude a reuniones mensuales a las cuales ha sido invitado y ayuda a evangelizar y promover trabajo realizado.",
                             "tipo": "buena",
                             "parent": {
                                 "id": 18,
@@ -1424,7 +1424,7 @@
                         },
                         {
                             "id": 83,
-                            "descripcion": "\tBusiness Sponsor no conoce ni participa con equipo en instancias claves como inception, reuniones mensuales etc.",
+                            "descripcion": "Business Sponsor no conoce ni participa con equipo en instancias claves como inception, reuniones mensuales etc.",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 18,
@@ -1452,7 +1452,7 @@
                         },
                         {
                             "id": 85,
-                            "descripcion": "\tEl Business Owner da requerimientos al equipo.",
+                            "descripcion": "El Business Owner da requerimientos al equipo.",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 18,
@@ -1466,7 +1466,7 @@
                         },
                         {
                             "id": 86,
-                            "descripcion": "\tEl Business Owner no da feedback durante las demos.(Feedback Demo)",
+                            "descripcion": "El Business Owner no da feedback durante las demos.(Feedback Demo)",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 18,
@@ -1500,7 +1500,7 @@
                     "seniales": [
                         {
                             "id": 87,
-                            "descripcion": "\tLa aprobación del PO es todo lo que necesitamos para desplegar algo en producción.",
+                            "descripcion": "La aprobación del PO es todo lo que necesitamos para desplegar algo en producción.",
                             "tipo": "buena",
                             "parent": {
                                 "id": 19,
@@ -1514,7 +1514,7 @@
                         },
                         {
                             "id": 88,
-                            "descripcion": "\tNecesitamos obtener aprobación de otros niveles, fuera del equipo para poder implementar en producción.",
+                            "descripcion": "Necesitamos obtener aprobación de otros niveles, fuera del equipo para poder implementar en producción.",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 19,
@@ -1538,7 +1538,7 @@
                     "seniales": [
                         {
                             "id": 89,
-                            "descripcion": "\tLa mayoría de las decisiones son tomadas por el squad y no toman mucho tiempo.",
+                            "descripcion": "La mayoría de las decisiones son tomadas por el squad y no toman mucho tiempo.",
                             "tipo": "buena",
                             "parent": {
                                 "id": 20,
@@ -1552,7 +1552,7 @@
                         },
                         {
                             "id": 90,
-                            "descripcion": "\tLa mayoría de las decisiones son tomadas por alguien externo al equipo, toman tiempo y retrasan al equipo.",
+                            "descripcion": "La mayoría de las decisiones son tomadas por alguien externo al equipo, toman tiempo y retrasan al equipo.",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 20,
@@ -1586,7 +1586,7 @@
                     "seniales": [
                         {
                             "id": 91,
-                            "descripcion": "\tEl squad participa activamente de los procesos definido por la Lean PMO.",
+                            "descripcion": "El squad participa activamente de los procesos definido por la Lean PMO.",
                             "tipo": "buena",
                             "parent": {
                                 "id": 21,
@@ -1666,7 +1666,7 @@
                     "seniales": [
                         {
                             "id": 96,
-                            "descripcion": "El IM del squad participa en la\tcoordinación entre equipos/squads donde las dependencias son identificadas\ty gestionadas.",
+                            "descripcion": "El IM del squad participa en lacoordinación entre equipos/squads donde las dependencias son identificadasy gestionadas.",
                             "tipo": "buena",
                             "parent": {
                                 "id": 22,
@@ -1718,7 +1718,7 @@
                     "seniales": [
                         {
                             "id": 99,
-                            "descripcion": "\tLa mayoría de los miembros del squad son parte al menos de un Guild.",
+                            "descripcion": "La mayoría de los miembros del squad son parte al menos de un Guild.",
                             "tipo": "buena",
                             "parent": {
                                 "id": 23,
@@ -1732,7 +1732,7 @@
                         },
                         {
                             "id": 100,
-                            "descripcion": "\tLos squads aprenden de otros en diferentes niveles y especialidades de una prácticas.",
+                            "descripcion": "Los squads aprenden de otros en diferentes niveles y especialidades de una prácticas.",
                             "tipo": "buena",
                             "parent": {
                                 "id": 23,
@@ -1746,7 +1746,7 @@
                         },
                         {
                             "id": 101,
-                            "descripcion": "\tNingún miembro del equipo participa de un Guild.",
+                            "descripcion": "Ningún miembro del equipo participa de un Guild.",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 23,
@@ -1760,7 +1760,7 @@
                         },
                         {
                             "id": 102,
-                            "descripcion": "\tLos equipos no aprenden de otros y caen en los mismos problemas.",
+                            "descripcion": "Los equipos no aprenden de otros y caen en los mismos problemas.",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 23,
@@ -1784,7 +1784,7 @@
                     "seniales": [
                         {
                             "id": 103,
-                            "descripcion": "\tConocemos al equipo especializado, nos hemos contactado con ellos y tenemos claridad de las cosas que debemos mejorar y de aquellas que debemos comenzar a hacer.",
+                            "descripcion": "Conocemos al equipo especializado, nos hemos contactado con ellos y tenemos claridad de las cosas que debemos mejorar y de aquellas que debemos comenzar a hacer.",
                             "tipo": "buena",
                             "parent": {
                                 "id": 24,
@@ -1798,7 +1798,7 @@
                         },
                         {
                             "id": 104,
-                            "descripcion": "\tConocemos al equipo especializado, nos hemos contactado con ellos, hemos trabajado conjuntamente en varios temas y actualmente no poseemos temas pendientes a mejorar o a desarrollar.",
+                            "descripcion": "Conocemos al equipo especializado, nos hemos contactado con ellos, hemos trabajado conjuntamente en varios temas y actualmente no poseemos temas pendientes a mejorar o a desarrollar.",
                             "tipo": "buena",
                             "parent": {
                                 "id": 24,
@@ -1826,7 +1826,7 @@
                         },
                         {
                             "id": 106,
-                            "descripcion": "\tComo equipo no conocemos el marco regulatorio interno,",
+                            "descripcion": "Como equipo no conocemos el marco regulatorio interno,",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 24,
@@ -1840,7 +1840,7 @@
                         },
                         {
                             "id": 107,
-                            "descripcion": "\tComo equipo hemos escuchado del marco regulatorio interno, pero no conocemos al equipo especializado en ello.",
+                            "descripcion": "Como equipo hemos escuchado del marco regulatorio interno, pero no conocemos al equipo especializado en ello.",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 24,
@@ -1854,7 +1854,7 @@
                         },
                         {
                             "id": 108,
-                            "descripcion": "\tSi bien sabemos quiénes forman el equipo especializado, nunca los hemos contactado y no lo creemos necesitarlo.",
+                            "descripcion": "Si bien sabemos quiénes forman el equipo especializado, nunca los hemos contactado y no lo creemos necesitarlo.",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 24,
@@ -1888,7 +1888,7 @@
                     "seniales": [
                         {
                             "id": 109,
-                            "descripcion": "\tEl éxito es medido en base a outcomes.",
+                            "descripcion": "El éxito es medido en base a outcomes.",
                             "tipo": "buena",
                             "parent": {
                                 "id": 25,
@@ -1902,7 +1902,7 @@
                         },
                         {
                             "id": 110,
-                            "descripcion": "\tLa satisfacción del usuario es medida en el tiempo y se crean iniciativas para mejorarla.",
+                            "descripcion": "La satisfacción del usuario es medida en el tiempo y se crean iniciativas para mejorarla.",
                             "tipo": "buena",
                             "parent": {
                                 "id": 25,
@@ -1916,7 +1916,7 @@
                         },
                         {
                             "id": 111,
-                            "descripcion": "\tEl equipo es medido basado en output.",
+                            "descripcion": "El equipo es medido basado en output.",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 25,
@@ -1930,7 +1930,7 @@
                         },
                         {
                             "id": 112,
-                            "descripcion": "\tHay celebraciones cuando aumenta el número de puntos entregados.",
+                            "descripcion": "Hay celebraciones cuando aumenta el número de puntos entregados.",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 25,
@@ -1944,7 +1944,7 @@
                         },
                         {
                             "id": 113,
-                            "descripcion": "\tLos miembros del equipo se apresuran al final de un sprint para entregar más puntos.",
+                            "descripcion": "Los miembros del equipo se apresuran al final de un sprint para entregar más puntos.",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 25,
@@ -2064,7 +2064,7 @@
                     "seniales": [
                         {
                             "id": 118,
-                            "descripcion": "\tTodos los miembros del squad comparten un propósito común para trabajar juntos.",
+                            "descripcion": "Todos los miembros del squad comparten un propósito común para trabajar juntos.",
                             "tipo": "buena",
                             "parent": {
                                 "id": 28,
@@ -2078,7 +2078,7 @@
                         },
                         {
                             "id": 119,
-                            "descripcion": "\tEl propósito ha sido creado por el squad y es visible.",
+                            "descripcion": "El propósito ha sido creado por el squad y es visible.",
                             "tipo": "buena",
                             "parent": {
                                 "id": 28,
@@ -2092,7 +2092,7 @@
                         },
                         {
                             "id": 120,
-                            "descripcion": "\tEl propósito está basado en outcome",
+                            "descripcion": "El propósito está basado en outcome",
                             "tipo": "buena",
                             "parent": {
                                 "id": 28,
@@ -2106,7 +2106,7 @@
                         },
                         {
                             "id": 121,
-                            "descripcion": "\tNo existe un propósito común u objetivo para los miembros del equipo",
+                            "descripcion": "No existe un propósito común u objetivo para los miembros del equipo",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 28,
@@ -2120,7 +2120,7 @@
                         },
                         {
                             "id": 122,
-                            "descripcion": "\tLos miembros del equipo no están comprometidos en un propósito único.",
+                            "descripcion": "Los miembros del equipo no están comprometidos en un propósito único.",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 28,
@@ -2134,7 +2134,7 @@
                         },
                         {
                             "id": 123,
-                            "descripcion": "\tNo hay motivación de los miembros del equipo para trabajar en este equipo.",
+                            "descripcion": "No hay motivación de los miembros del equipo para trabajar en este equipo.",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 28,
@@ -2148,7 +2148,7 @@
                         },
                         {
                             "id": 124,
-                            "descripcion": "\tEl propósito está basado en output.",
+                            "descripcion": "El propósito está basado en output.",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 28,
@@ -2172,7 +2172,7 @@
                     "seniales": [
                         {
                             "id": 125,
-                            "descripcion": "\tExiste claridad en las prioridades de las decisiones; tenemos tradeoff sliders.",
+                            "descripcion": "Existe claridad en las prioridades de las decisiones; tenemos tradeoff sliders.",
                             "tipo": "buena",
                             "parent": {
                                 "id": 29,
@@ -2200,7 +2200,7 @@
                         },
                         {
                             "id": 127,
-                            "descripcion": "\tNo hay tradeoff sliders",
+                            "descripcion": "No hay tradeoff sliders",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 29,
@@ -2214,7 +2214,7 @@
                         },
                         {
                             "id": 128,
-                            "descripcion": "\tLas decisiones son tomadas de manera inconsistente, de vez en cuando, y no entendemos las razones y prioridades detrás de ellas.",
+                            "descripcion": "Las decisiones son tomadas de manera inconsistente, de vez en cuando, y no entendemos las razones y prioridades detrás de ellas.",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 29,
@@ -2248,7 +2248,7 @@
                     "seniales": [
                         {
                             "id": 129,
-                            "descripcion": "\tEl equipo/squad haconstruido un pipeline.",
+                            "descripcion": "El equipo/squad haconstruido un pipeline.",
                             "tipo": "buena",
                             "parent": {
                                 "id": 30,
@@ -2262,7 +2262,7 @@
                         },
                         {
                             "id": 130,
-                            "descripcion": "\tCada commit corre todo el conjunto de pruebas.",
+                            "descripcion": "Cada commit corre todo el conjunto de pruebas.",
                             "tipo": "buena",
                             "parent": {
                                 "id": 30,
@@ -2276,7 +2276,7 @@
                         },
                         {
                             "id": 131,
-                            "descripcion": "\tCada commit gatilla una nueva construcción (build) al ambiente de QA.",
+                            "descripcion": "Cada commit gatilla una nueva construcción (build) al ambiente de QA.",
                             "tipo": "buena",
                             "parent": {
                                 "id": 30,
@@ -2290,7 +2290,7 @@
                         },
                         {
                             "id": 132,
-                            "descripcion": "\tEl pipeline permanece roto por largos periodos de tiempo.",
+                            "descripcion": "El pipeline permanece roto por largos periodos de tiempo.",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 30,
@@ -2304,7 +2304,7 @@
                         },
                         {
                             "id": 133,
-                            "descripcion": "\tEl equipo no posee autonomía para mantener su pipeline.",
+                            "descripcion": "El equipo no posee autonomía para mantener su pipeline.",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 30,
@@ -2318,7 +2318,7 @@
                         },
                         {
                             "id": 134,
-                            "descripcion": "\tEl pipeline toma mucho tiempo en ejecutarse.",
+                            "descripcion": "El pipeline toma mucho tiempo en ejecutarse.",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 30,
@@ -2332,7 +2332,7 @@
                         },
                         {
                             "id": 135,
-                            "descripcion": "\tRamas de larga vida fuera de la rama base (master o trunk).",
+                            "descripcion": "Ramas de larga vida fuera de la rama base (master o trunk).",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 30,
@@ -2346,7 +2346,7 @@
                         },
                         {
                             "id": 136,
-                            "descripcion": "\tNuevo código toma más de 1 mes en ser desplegado en producción.",
+                            "descripcion": "Nuevo código toma más de 1 mes en ser desplegado en producción.",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 30,
@@ -2370,7 +2370,7 @@
                     "seniales": [
                         {
                             "id": 137,
-                            "descripcion": "\tEl squad debe definir su propia estrategia de prueba.",
+                            "descripcion": "El squad debe definir su propia estrategia de prueba.",
                             "tipo": "buena",
                             "parent": {
                                 "id": 31,
@@ -2384,7 +2384,7 @@
                         },
                         {
                             "id": 138,
-                            "descripcion": "\tExisten diferentes niveles de prueba, con diferentes propósitos.",
+                            "descripcion": "Existen diferentes niveles de prueba, con diferentes propósitos.",
                             "tipo": "buena",
                             "parent": {
                                 "id": 31,
@@ -2398,7 +2398,7 @@
                         },
                         {
                             "id": 139,
-                            "descripcion": "\tHay un nivel de prueba en el que se validan todos los componentes de la aplicación.",
+                            "descripcion": "Hay un nivel de prueba en el que se validan todos los componentes de la aplicación.",
                             "tipo": "buena",
                             "parent": {
                                 "id": 31,
@@ -2412,7 +2412,7 @@
                         },
                         {
                             "id": 140,
-                            "descripcion": "\tSe aplican normas de calidad del código de producción para el código de prueba.",
+                            "descripcion": "Se aplican normas de calidad del código de producción para el código de prueba.",
                             "tipo": "buena",
                             "parent": {
                                 "id": 31,
@@ -2426,7 +2426,7 @@
                         },
                         {
                             "id": 141,
-                            "descripcion": "\tEs fácil evaluar el impacto de los cambios de código.",
+                            "descripcion": "Es fácil evaluar el impacto de los cambios de código.",
                             "tipo": "buena",
                             "parent": {
                                 "id": 31,
@@ -2440,7 +2440,7 @@
                         },
                         {
                             "id": 142,
-                            "descripcion": "\tLas pruebas son pobresy se rompen de maneras indeterminista.",
+                            "descripcion": "Las pruebas son pobresy se rompen de maneras indeterminista.",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 31,
@@ -2454,7 +2454,7 @@
                         },
                         {
                             "id": 143,
-                            "descripcion": "\tLa ejecución de las pruebas no es autónoma.",
+                            "descripcion": "La ejecución de las pruebas no es autónoma.",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 31,
@@ -2468,7 +2468,7 @@
                         },
                         {
                             "id": 144,
-                            "descripcion": "\tHay pruebas de unidad sin aislamiento adecuado, existe superposición de otras pruebas.",
+                            "descripcion": "Hay pruebas de unidad sin aislamiento adecuado, existe superposición de otras pruebas.",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 31,
@@ -2482,7 +2482,7 @@
                         },
                         {
                             "id": 145,
-                            "descripcion": "\tDespués de la ejecución de un pipeline, se requieren pruebas manuales.",
+                            "descripcion": "Después de la ejecución de un pipeline, se requieren pruebas manuales.",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 31,
@@ -2506,7 +2506,7 @@
                     "seniales": [
                         {
                             "id": 146,
-                            "descripcion": "\tEl squad tiene claridad sobre el camino a producción y el control del proceso.",
+                            "descripcion": "El squad tiene claridad sobre el camino a producción y el control del proceso.",
                             "tipo": "buena",
                             "parent": {
                                 "id": 32,
@@ -2520,7 +2520,7 @@
                         },
                         {
                             "id": 147,
-                            "descripcion": "\tEl squad va a producción incluso antes de la primera función, con un \"Hello World\".",
+                            "descripcion": "El squad va a producción incluso antes de la primera función, con un \"Hello World\".",
                             "tipo": "buena",
                             "parent": {
                                 "id": 32,
@@ -2534,7 +2534,7 @@
                         },
                         {
                             "id": 148,
-                            "descripcion": "\tEl squad asegura que un despliegue a producción no rompe nada.",
+                            "descripcion": "El squad asegura que un despliegue a producción no rompe nada.",
                             "tipo": "buena",
                             "parent": {
                                 "id": 32,
@@ -2548,7 +2548,7 @@
                         },
                         {
                             "id": 149,
-                            "descripcion": "\tEs posible hacer un despliegue en producción en un momento dado.",
+                            "descripcion": "Es posible hacer un despliegue en producción en un momento dado.",
                             "tipo": "buena",
                             "parent": {
                                 "id": 32,
@@ -2562,7 +2562,7 @@
                         },
                         {
                             "id": 150,
-                            "descripcion": "\tEl squad tiene un mecanismo de despliegue en producción regularmente.",
+                            "descripcion": "El squad tiene un mecanismo de despliegue en producción regularmente.",
                             "tipo": "buena",
                             "parent": {
                                 "id": 32,
@@ -2576,7 +2576,7 @@
                         },
                         {
                             "id": 151,
-                            "descripcion": "\tCapacidad para crear fácilmente nuevos entornos desde cero.",
+                            "descripcion": "Capacidad para crear fácilmente nuevos entornos desde cero.",
                             "tipo": "buena",
                             "parent": {
                                 "id": 32,
@@ -2590,7 +2590,7 @@
                         },
                         {
                             "id": 152,
-                            "descripcion": "\tEl proceso de despliegue en producción tarda demasiado en ejecutarse.",
+                            "descripcion": "El proceso de despliegue en producción tarda demasiado en ejecutarse.",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 32,
@@ -2604,7 +2604,7 @@
                         },
                         {
                             "id": 153,
-                            "descripcion": "\tEl despliegue en producción a veces requiere intervención manual.",
+                            "descripcion": "El despliegue en producción a veces requiere intervención manual.",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 32,
@@ -2618,7 +2618,7 @@
                         },
                         {
                             "id": 154,
-                            "descripcion": "\tEl despliegue en producción está bloqueado por otras características.",
+                            "descripcion": "El despliegue en producción está bloqueado por otras características.",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 32,
@@ -2632,7 +2632,7 @@
                         },
                         {
                             "id": 155,
-                            "descripcion": "\tHay lanzamientos \"bigbang\" en producción.",
+                            "descripcion": "Hay lanzamientos \"bigbang\" en producción.",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 32,
@@ -2646,7 +2646,7 @@
                         },
                         {
                             "id": 156,
-                            "descripcion": "\tNecesidad de acceder manualmente a los servidores para solucionar problemas.",
+                            "descripcion": "Necesidad de acceder manualmente a los servidores para solucionar problemas.",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 32,
@@ -2670,7 +2670,7 @@
                     "seniales": [
                         {
                             "id": 157,
-                            "descripcion": "\tEl PO es responsable de los lanzamientos en producción.",
+                            "descripcion": "El PO es responsable de los lanzamientos en producción.",
                             "tipo": "buena",
                             "parent": {
                                 "id": 33,
@@ -2684,7 +2684,7 @@
                         },
                         {
                             "id": 158,
-                            "descripcion": "\tEl PO puede activar una función, tal vez con ayuda del squad, sin un despliegue en producción.",
+                            "descripcion": "El PO puede activar una función, tal vez con ayuda del squad, sin un despliegue en producción.",
                             "tipo": "buena",
                             "parent": {
                                 "id": 33,
@@ -2698,7 +2698,7 @@
                         },
                         {
                             "id": 159,
-                            "descripcion": "\tEl desarrollo de nuevas características no se lanza inmediatamente después de la implementación.",
+                            "descripcion": "El desarrollo de nuevas características no se lanza inmediatamente después de la implementación.",
                             "tipo": "buena",
                             "parent": {
                                 "id": 33,
@@ -2712,7 +2712,7 @@
                         },
                         {
                             "id": 160,
-                            "descripcion": "\tCuando se toma una decisión de negocio, es difícil liberar una función ya implementada.",
+                            "descripcion": "Cuando se toma una decisión de negocio, es difícil liberar una función ya implementada.",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 33,
@@ -2726,7 +2726,7 @@
                         },
                         {
                             "id": 161,
-                            "descripcion": "\tLa responsabilidad de una nueva versión de producción depende enteramente de las restricciones técnicas.",
+                            "descripcion": "La responsabilidad de una nueva versión de producción depende enteramente de las restricciones técnicas.",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 33,
@@ -2750,7 +2750,7 @@
                     "seniales": [
                         {
                             "id": 162,
-                            "descripcion": "\tLo que se desarrolla es el mínimo requerido para una característica determinada.",
+                            "descripcion": "Lo que se desarrolla es el mínimo requerido para una característica determinada.",
                             "tipo": "buena",
                             "parent": {
                                 "id": 34,
@@ -2764,7 +2764,7 @@
                         },
                         {
                             "id": 163,
-                            "descripcion": "\tLa refactorización de la arquitectura es frecuente.",
+                            "descripcion": "La refactorización de la arquitectura es frecuente.",
                             "tipo": "buena",
                             "parent": {
                                 "id": 34,
@@ -2778,7 +2778,7 @@
                         },
                         {
                             "id": 164,
-                            "descripcion": "\tLos requisitos funcionales cruzados son constantemente reevaluados.",
+                            "descripcion": "Los requisitos funcionales cruzados son constantemente reevaluados.",
                             "tipo": "buena",
                             "parent": {
                                 "id": 34,
@@ -2792,7 +2792,7 @@
                         },
                         {
                             "id": 165,
-                            "descripcion": "\tLas decisiones importantes sobre la arquitectura están documentadas y alineadas con el squad.",
+                            "descripcion": "Las decisiones importantes sobre la arquitectura están documentadas y alineadas con el squad.",
                             "tipo": "buena",
                             "parent": {
                                 "id": 34,
@@ -2806,7 +2806,7 @@
                         },
                         {
                             "id": 166,
-                            "descripcion": "-\tDiseño anticipado.",
+                            "descripcion": "-Diseño anticipado.",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 34,
@@ -2820,7 +2820,7 @@
                         },
                         {
                             "id": 167,
-                            "descripcion": "\tLos cambios de código son complejos y retrasados.",
+                            "descripcion": "Los cambios de código son complejos y retrasados.",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 34,
@@ -2834,7 +2834,7 @@
                         },
                         {
                             "id": 168,
-                            "descripcion": "\tSólo unos pocos miembros del equipo son capaces de explicar la visión técnica.",
+                            "descripcion": "Sólo unos pocos miembros del equipo son capaces de explicar la visión técnica.",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 34,
@@ -2858,7 +2858,7 @@
                     "seniales": [
                         {
                             "id": 169,
-                            "descripcion": "\tEl squad se ha comunicado con el área de seguridad de la organización para conocer y entender los lineamientos correctos.",
+                            "descripcion": "El squad se ha comunicado con el área de seguridad de la organización para conocer y entender los lineamientos correctos.",
                             "tipo": "buena",
                             "parent": {
                                 "id": 35,
@@ -2872,7 +2872,7 @@
                         },
                         {
                             "id": 170,
-                            "descripcion": "\tEl squad ha implementado y automatizado la seguridad dentro de su proyecto.",
+                            "descripcion": "El squad ha implementado y automatizado la seguridad dentro de su proyecto.",
                             "tipo": "buena",
                             "parent": {
                                 "id": 35,
@@ -2886,7 +2886,7 @@
                         },
                         {
                             "id": 171,
-                            "descripcion": "\tEl squad constantemente monitorea y busca potenciales ataques.",
+                            "descripcion": "El squad constantemente monitorea y busca potenciales ataques.",
                             "tipo": "buena",
                             "parent": {
                                 "id": 35,
@@ -2900,7 +2900,7 @@
                         },
                         {
                             "id": 172,
-                            "descripcion": "\tEl squad utiliza herramientas de code review y “white box”, así como algunas herramientas y prácticas “black box” para el testing de seguridad.",
+                            "descripcion": "El squad utiliza herramientas de code review y “white box”, así como algunas herramientas y prácticas “black box” para el testing de seguridad.",
                             "tipo": "buena",
                             "parent": {
                                 "id": 35,
@@ -2914,7 +2914,7 @@
                         },
                         {
                             "id": 173,
-                            "descripcion": "\tEl squad posee pipelines de ejecución sanos, visibles y únicos por cada squad.",
+                            "descripcion": "El squad posee pipelines de ejecución sanos, visibles y únicos por cada squad.",
                             "tipo": "buena",
                             "parent": {
                                 "id": 35,
@@ -2928,7 +2928,7 @@
                         },
                         {
                             "id": 174,
-                            "descripcion": "\tHay miembros del squad que participan constantemente de Guilds de Seguridad para estar siempre alineados, mejorando constantemente las prácticas y velando por el cumplimiento de ellas al interior del squad.",
+                            "descripcion": "Hay miembros del squad que participan constantemente de Guilds de Seguridad para estar siempre alineados, mejorando constantemente las prácticas y velando por el cumplimiento de ellas al interior del squad.",
                             "tipo": "buena",
                             "parent": {
                                 "id": 35,
@@ -2942,7 +2942,7 @@
                         },
                         {
                             "id": 175,
-                            "descripcion": "\tEl equipo no conoce los lineamientos de seguridad de la compañía.",
+                            "descripcion": "El equipo no conoce los lineamientos de seguridad de la compañía.",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 35,
@@ -2956,7 +2956,7 @@
                         },
                         {
                             "id": 176,
-                            "descripcion": "\tEl equipo no ha hecho esfuerzos o no ha conseguido automatizar la seguridad dentro de su proyecto.",
+                            "descripcion": "El equipo no ha hecho esfuerzos o no ha conseguido automatizar la seguridad dentro de su proyecto.",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 35,
@@ -2970,7 +2970,7 @@
                         },
                         {
                             "id": 177,
-                            "descripcion": "\tEl equipo no monitorea posibles ataques.",
+                            "descripcion": "El equipo no monitorea posibles ataques.",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 35,
@@ -2984,7 +2984,7 @@
                         },
                         {
                             "id": 178,
-                            "descripcion": "\tEl equipo no utiliza herramientas para el testeo de la seguridad de sus aplicaciones.",
+                            "descripcion": "El equipo no utiliza herramientas para el testeo de la seguridad de sus aplicaciones.",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 35,
@@ -2998,7 +2998,7 @@
                         },
                         {
                             "id": 179,
-                            "descripcion": "\tLos pipelines del equipo no están sanos y/o visibles.",
+                            "descripcion": "Los pipelines del equipo no están sanos y/o visibles.",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 35,
@@ -3012,7 +3012,7 @@
                         },
                         {
                             "id": 180,
-                            "descripcion": "\tNo existe un Guild de seguridad para velar por el cumplimiento de los lineamientos de la compañía y entre equipos.",
+                            "descripcion": "No existe un Guild de seguridad para velar por el cumplimiento de los lineamientos de la compañía y entre equipos.",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 35,
@@ -3026,7 +3026,7 @@
                         },
                         {
                             "id": 181,
-                            "descripcion": "\tExiste un guild de temas de seguridad, pero el equipo no participa de ella.",
+                            "descripcion": "Existe un guild de temas de seguridad, pero el equipo no participa de ella.",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 35,
@@ -3098,7 +3098,7 @@
                     "seniales": [
                         {
                             "id": 188,
-                            "descripcion": "\tEl squad ejecuta pruebas A/B y sólo mantiene las características que son altamente utilizadas.",
+                            "descripcion": "El squad ejecuta pruebas A/B y sólo mantiene las características que son altamente utilizadas.",
                             "tipo": "buena",
                             "parent": {
                                 "id": 38,
@@ -3112,7 +3112,7 @@
                         },
                         {
                             "id": 189,
-                            "descripcion": "\tEl uso de características aumenta con el tiempo.",
+                            "descripcion": "El uso de características aumenta con el tiempo.",
                             "tipo": "buena",
                             "parent": {
                                 "id": 38,
@@ -3126,7 +3126,7 @@
                         },
                         {
                             "id": 190,
-                            "descripcion": "\tMás usuarios usan más características entregadas.",
+                            "descripcion": "Más usuarios usan más características entregadas.",
                             "tipo": "buena",
                             "parent": {
                                 "id": 38,
@@ -3140,7 +3140,7 @@
                         },
                         {
                             "id": 191,
-                            "descripcion": "\tEl equipo está analizando data para validar el diseño y futuras oportunidades improvisaciones del producto.",
+                            "descripcion": "El equipo está analizando data para validar el diseño y futuras oportunidades improvisaciones del producto.",
                             "tipo": "buena",
                             "parent": {
                                 "id": 38,
@@ -3154,7 +3154,7 @@
                         },
                         {
                             "id": 192,
-                            "descripcion": "\tEl uso de las características es bajo.",
+                            "descripcion": "El uso de las características es bajo.",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 38,
@@ -3168,7 +3168,7 @@
                         },
                         {
                             "id": 193,
-                            "descripcion": "\tNo medimos el uso,Los usuarios no usan lo que se les entrega.",
+                            "descripcion": "No medimos el uso,Los usuarios no usan lo que se les entrega.",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 38,
@@ -3192,7 +3192,7 @@
                     "seniales": [
                         {
                             "id": 194,
-                            "descripcion": "\tLas necesidades del usuario que fueron resueltas en canales no digitales ahora son resueltas por canales que sí lo son, a través de características que entregó el squad.",
+                            "descripcion": "Las necesidades del usuario que fueron resueltas en canales no digitales ahora son resueltas por canales que sí lo son, a través de características que entregó el squad.",
                             "tipo": "buena",
                             "parent": {
                                 "id": 39,
@@ -3206,7 +3206,7 @@
                         },
                         {
                             "id": 195,
-                            "descripcion": "\tEl equipo está continuamente revisando oportunidades para pasar de cosas no digitales a digitales",
+                            "descripcion": "El equipo está continuamente revisando oportunidades para pasar de cosas no digitales a digitales",
                             "tipo": "buena",
                             "parent": {
                                 "id": 39,
@@ -3220,7 +3220,7 @@
                         },
                         {
                             "id": 196,
-                            "descripcion": "\tNo existe migración de usuarios de canales no digitales a canales digitales entregados por este equipo.",
+                            "descripcion": "No existe migración de usuarios de canales no digitales a canales digitales entregados por este equipo.",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 39,
@@ -3244,7 +3244,7 @@
                     "seniales": [
                         {
                             "id": 197,
-                            "descripcion": "El tiempo de entrega es medido y mejorado en el\ttiempo",
+                            "descripcion": "El tiempo de entrega es medido y mejorado en eltiempo",
                             "tipo": "buena",
                             "parent": {
                                 "id": 40,
