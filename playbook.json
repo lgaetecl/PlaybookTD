@@ -6,6 +6,7 @@
             "nro": "1",
             "descripcion": "Buscar el entender las necesidades del usuario a través de técnicas de UX, XD y Service Design, de manera de entregarle experiencias memorables, sin obstáculos y sin esfuerzos; dentro entre canales.",
             "parent": null,
+            "img": "https://raw.githubusercontent.com/lgaetecl/PlaybookTD/master/assets/images/Alineados.png",
             "criterios": [
                 {
                     "id": 1,
@@ -233,6 +234,7 @@
             "nro": "2",
             "descripcion": "Usar los valores, principios y prácticas de las ya consolidadas metodologías Agile y Lean. Entregar valor continuamente reconociendo y eliminando desperdicios.",
             "parent": null,
+            "img": "",
             "criterios": [
                 {
                     "id": 4,
@@ -590,6 +592,7 @@
             "nro": "3",
             "descripcion": "Formar equipos desarrollados de larga duración con las capacidades necesarias y el tamaño necesario para que trabajen a un ritmo sostenible.",
             "parent": null,
+            "img": "https://raw.githubusercontent.com/lgaetecl/PlaybookTD/master/assets/images/Personas-equipos.png",
             "criterios": [
                 {
                     "id": 7,
@@ -1273,6 +1276,7 @@
             "nro": "4",
             "descripcion": "Las personas que tienen capacidades de negocio, de usuario y de tecnología trabajan juntos en el día a día.",
             "parent": null,
+            "img": "https://raw.githubusercontent.com/lgaetecl/PlaybookTD/master/assets/images/negocio%20y%20tecnologia%20trabajan%20juntos.png",
             "criterios": [
                 {
                     "id": 17,
@@ -1484,6 +1488,7 @@
             "nro": "5",
             "descripcion": "Cada squad tiene autonomía para tomar decisiones que tendrán impacto sobre ellos mismos; tomando en cuenta a otros equipos/squads cuando las decisiones los impactan.",
             "parent": null,
+            "img": "https://raw.githubusercontent.com/lgaetecl/PlaybookTD/master/assets/images/auutonomo.png",
             "criterios": [
                 {
                     "id": 19,
@@ -1569,6 +1574,7 @@
             "nro": "6",
             "descripcion": "Ser consciente de que eres parte de un ecosistema mucho mayor junto a otros equipos/squads, stakeholders y dependencias",
             "parent": null,
+            "img": "https://raw.githubusercontent.com/lgaetecl/PlaybookTD/master/assets/images/partes_de_algo_mayor_el_mundo.png",
             "criterios": [
                 {
                     "id": 21,
@@ -1870,6 +1876,7 @@
             "nro": "7",
             "descripcion": "Éxito y propósito están alineados al objetivo global de generar experiencias memorables.",
             "parent": null,
+            "img": "",
             "criterios": [
                 {
                     "id": 25,
@@ -1959,6 +1966,7 @@
             "nro": "8",
             "descripcion": "Experimentar y explorar nuevas formas de hacer las cosas, usar diferentes tecnologías, no parar de innovar, innovar a medida que avanzas.",
             "parent": null,
+            "img": "https://raw.githubusercontent.com/lgaetecl/PlaybookTD/master/assets/images/innovation%20incorpored.png",
             "criterios": [
                 {
                     "id": 26,
@@ -2044,6 +2052,7 @@
             "nro": "9",
             "descripcion": "Trabajar juntos para crear y hacer visible una declaración de propósito que definirá por qué este grupo de personas está trabajando en equipo.",
             "parent": null,
+            "img": "",
             "criterios": [
                 {
                     "id": 28,
@@ -2227,6 +2236,7 @@
             "nro": "10",
             "descripcion": "Usar, aprender e innovar prácticas que han sido consolidadas en el mercado digital para entregar continuamente con calidad y valor",
             "parent": null,
+            "img": "https://raw.githubusercontent.com/lgaetecl/PlaybookTD/master/assets/images/calidad%20-%2001.png",
             "criterios": [
                 {
                     "id": 30,
@@ -3038,6 +3048,7 @@
             "nro": "11",
             "descripcion": "Medir y monitorear la satisfacción del usuario en el tiempo a lo largo de la adopción digital, uso y tiempo de entrega de las ideas.",
             "parent": null,
+            "img": "https://raw.githubusercontent.com/lgaetecl/PlaybookTD/master/assets/images/lean-startup.png",
             "criterios": [
                 {
                     "id": 36,
