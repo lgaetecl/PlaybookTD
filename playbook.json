@@ -326,7 +326,7 @@
                     "seniales": [
                         {
                             "id": 20,
-                            "descripcion": "Nosotros comenzamos\r\rusando Scrum.\r",
+                            "descripcion": "Nosotros comenzamosusando Scrum.",
                             "tipo": "buena",
                             "parent": {
                                 "id": 5,
@@ -340,7 +340,7 @@
                         },
                         {
                             "id": 21,
-                            "descripcion": "Después de alguna\r\rretrospectivas, hemos\r\rcambiado algunas cosas",
+                            "descripcion": "Después de algunaretrospectivas, hemoscambiado algunas cosas",
                             "tipo": "buena",
                             "parent": {
                                 "id": 5,
