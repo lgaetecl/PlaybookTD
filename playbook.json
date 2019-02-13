@@ -234,7 +234,7 @@
             "nro": "2",
             "descripcion": "Usar los valores, principios y prácticas de las ya consolidadas metodologías Agile y Lean. Entregar valor continuamente reconociendo y eliminando desperdicios.",
             "parent": null,
-            "img": "",
+            "img": "https://raw.githubusercontent.com/lgaetecl/PlaybookTD/master/assets/images/lean_startup-build-measure-learn-feedback-loop.png",
             "criterios": [
                 {
                     "id": 4,
@@ -528,7 +528,7 @@
                     "seniales": [
                         {
                             "id": 184,
-                            "descripcion": " Tenemos al menos una\tmétrica de output  ¿Cuál? Por\r\nfavor explique.",
+                            "descripcion": "Tenemos al menos una\tmétrica de output  ¿Cuál? Por\r\nfavor explique.",
                             "tipo": "buena",
                             "parent": {
                                 "id": 37,
@@ -556,7 +556,7 @@
                         },
                         {
                             "id": 186,
-                            "descripcion": " No estamos midiendo métricas de output, sólo nos dedicamos a entregar.",
+                            "descripcion": "No estamos midiendo métricas de output, sólo nos dedicamos a entregar.",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 37,
@@ -788,7 +788,7 @@
                     "seniales": [
                         {
                             "id": 44,
-                            "descripcion": " Los miembros del squad se\tdan feedback de manera\tse comportan como jefes, mutua, independiente de su rol.",
+                            "descripcion": "Los miembros del squad se\tdan feedback de manera\tse comportan como jefes, mutua, independiente de su rol.",
                             "tipo": "buena",
                             "parent": {
                                 "id": 10,
@@ -1680,7 +1680,7 @@
                         },
                         {
                             "id": 97,
-                            "descripcion": " El IM del equipo nunca habla con otro IM",
+                            "descripcion": "El IM del equipo nunca habla con otro IM",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 22,
@@ -1876,7 +1876,7 @@
             "nro": "7",
             "descripcion": "Éxito y propósito están alineados al objetivo global de generar experiencias memorables.",
             "parent": null,
-            "img": "",
+            "img": "https://raw.githubusercontent.com/lgaetecl/PlaybookTD/master/assets/images/metrics-noun_4187.png",
             "criterios": [
                 {
                     "id": 25,
@@ -1992,7 +1992,7 @@
                         },
                         {
                             "id": 115,
-                            "descripcion": " ¿Innovación? ¿Qué? Eso es algo que hacen otros equipos, no nosotros.",
+                            "descripcion": "¿Innovación? ¿Qué? Eso es algo que hacen otros equipos, no nosotros.",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 26,
@@ -2030,7 +2030,7 @@
                         },
                         {
                             "id": 117,
-                            "descripcion": " La investigación de usuarios cuantitativa/cualitativa nunca se ha hecho o fue solamente una vez, para la Inception,",
+                            "descripcion": "La investigación de usuarios cuantitativa/cualitativa nunca se ha hecho o fue solamente una vez, para la Inception,",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 27,
@@ -2052,7 +2052,7 @@
             "nro": "9",
             "descripcion": "Trabajar juntos para crear y hacer visible una declaración de propósito que definirá por qué este grupo de personas está trabajando en equipo.",
             "parent": null,
-            "img": "",
+            "img": "https://raw.githubusercontent.com/lgaetecl/PlaybookTD/master/assets/images/goal.png",
             "criterios": [
                 {
                     "id": 28,
@@ -3060,7 +3060,7 @@
                     "seniales": [
                         {
                             "id": 182,
-                            "descripcion": " Los stakeholders del negocio están satisfechos con el squad",
+                            "descripcion": "Los stakeholders del negocio están satisfechos con el squad",
                             "tipo": "buena",
                             "parent": {
                                 "id": 36,
@@ -3074,7 +3074,7 @@
                         },
                         {
                             "id": 183,
-                            "descripcion": " Los stakeholders del negocio no están satisfechos con el equipo",
+                            "descripcion": "Los stakeholders del negocio no están satisfechos con el equipo",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 36,
@@ -3258,7 +3258,7 @@
                         },
                         {
                             "id": 198,
-                            "descripcion": " ¿Tiempo de entrega? ¿Qué es eso?",
+                            "descripcion": "¿Tiempo de entrega? ¿Qué es eso?",
                             "tipo": "mejora",
                             "parent": {
                                 "id": 40,
@@ -3282,7 +3282,7 @@
                     "seniales": [
                         {
                             "id": 200,
-                            "descripcion": " La satisfacción del usuario es medida y mejorada en el tiempo.",
+                            "descripcion": "La satisfacción del usuario es medida y mejorada en el tiempo.",
                             "tipo": "buena",
                             "parent": {
                                 "id": 41,
@@ -3296,7 +3296,7 @@
                         },
                         {
                             "id": 201,
-                            "descripcion": " Saber Distinguir cuál métrica impactar fuera de los king KPI’s para evaluar",
+                            "descripcion": "Saber Distinguir cuál métrica impactar fuera de los king KPI’s para evaluar",
                             "tipo": "buena",
                             "parent": {
                                 "id": 41,
